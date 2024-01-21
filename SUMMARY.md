@@ -12,3 +12,4 @@
   * [Race](gb/final-fantasy-legend/race.md)
   * [Items](gb/final-fantasy-legend/items.md)
   * [Text](gb/final-fantasy-legend/text.md)
+  * [Living Status](gb/final-fantasy-legend/living-status.md)
